@@ -1,0 +1,45 @@
+
+
+
+
+.content{
+    color: yellow;
+    background: black;
+
+}
+
+#body{
+    background: navy;
+    color: white;
+}
+
+
+h1{
+
+border:2px solid red;
+width: 1000px;
+display:inline;
+
+
+}:
+ span{
+    border:2px solid green;
+    width: 200px;
+    display:inline-block;
+ }
+
+ div{
+    border:2px solid black;
+    width:200px;
+    display:block;
+ }
+ u1{
+    display: flex;
+    gap: 10px;
+    list-style: none;
+ }
+ li{
+    float;
+    list-style: none;
+    margin-left: 10px;
+ }
